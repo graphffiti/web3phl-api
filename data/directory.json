@@ -3,6 +3,7 @@
     "id": "dvcode",
     "name": "DvCode Technologies Inc.",
     "verified": true,
+	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
     "description":
       "DvCode Technologies Inc. is an IT solutions company specializing in software development leveraging on blockchain smart contracts, digital wallets, and cyber-security; game app development; network infrastructure building and web 3.0 development. Our main goal is to help our clients make use of the modern technology in their every lives that will be fun, easy-to-use, cost-effective and convenient.",
     "tags": ["nft", "defi", "gaming","company"],
@@ -21,6 +22,7 @@
     "id": "gladiatordex",
     "name": "GladiatorDex",
     "verified": true,
+	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
     "description":
       "GladiatorDex is a pvp auto-battler play-to-earn game on top of Polygon Network that has simple game mechanics but has robust game and token economy",
     "tags": ["nft", "defi", "gaming"],
@@ -47,6 +49,7 @@
     "id": "web3philippines",
     "name": "Web3 Philippines",
     "verified": true,
+	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
     "description":
       "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
     "tags": ["community"],
