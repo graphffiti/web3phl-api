@@ -12,7 +12,7 @@ Read the project's [code of conduct](./CODE_OF_CONDUCT.md).
 
 ## 📃 License
 
-Web3 Philippines Directory API is licensed under [GNU General Public License v3.0](https://opensource.org/licenses/GPL-3.0).
+Web3 Philippines Directory API is licensed under [The MIT License](https://opensource.org/licenses/MIT).
 
 ## 📝 Author
 
