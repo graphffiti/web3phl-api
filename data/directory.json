@@ -1,55 +1,9 @@
 [
   {
-    "id": "dvcode",
-    "name": "DvCode Technologies Inc.",
-    "verified": true,
-	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
-    "description":
-      "DvCode Technologies Inc. is an IT solutions company specializing in software development leveraging on blockchain smart contracts, digital wallets, and cyber-security; game app development; network infrastructure building and web 3.0 development. Our main goal is to help our clients make use of the modern technology in their every lives that will be fun, easy-to-use, cost-effective and convenient.",
-    "tags": ["nft", "defi", "gaming","company"],
-    "links": {
-      "facebook": {
-        "id": "fb",
-        "url": "https://facebook.com/dvcode.tech"
-      },
-      "website": {
-        "id": "website",
-        "url": "https://dvcode.tech"
-      }
-    }
-  },
-  {
-    "id": "gladiatordex",
-    "name": "GladiatorDex",
-    "verified": true,
-	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
-    "description":
-      "GladiatorDex is a pvp auto-battler play-to-earn game on top of Polygon Network that has simple game mechanics but has robust game and token economy",
-    "tags": ["nft", "defi", "gaming"],
-    "links": {
-      "facebook": {
-        "id": "fb",
-        "url": "https://facebook.com/gladiatordexnft"
-      },
-      "discord": {
-        "id": "discord",
-        "url": "https://discord.com/invite/7Dd433b63H"
-      },
-      "twitter": {
-        "id": "twitter",
-        "url": "https://twitter.com/gladiatordexnft"
-      },
-      "website": {
-        "id": "website",
-        "url": "https://gladiatordex.com"
-      }
-    }
-  },
-  {
     "id": "web3philippines",
     "name": "Web3 Philippines",
     "verified": true,
-	"image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
+	  "image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
     "description":
       "Filipino-led community, helping Filipinos build in the Web3 space by providing free access to Web3 education, making us the first official and active Web3 community in the country. We believe that Web3 is and will always be for everyone.",
     "tags": ["community"],
@@ -69,6 +23,75 @@
       "website": {
         "id": "website",
         "url": "https://web3philippines.org"
+      }
+    }
+  },
+  {
+    "id": "twala",
+    "name": "Twala",
+    "verified": true,
+	  "image": "https://twala-web-assets.s3.ap-southeast-1.amazonaws.com/twala-logo.png",
+    "description":
+      "Twala is a specialized Ethereum sidechain designed to enable digital trust, security, and compliance for banks, government institutions, organizations, and businesses. Twala has built-in protocols for self-sovereign blockchain identities and digital document anchoring to help connect Web2 and Web3 ecosystems.",
+    "tags": ["blockchain", "company","technology"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://facebook.com/twalaio"
+      },
+      "linkedin": {
+        "id": "linkedin",
+        "url": "https://linkedin.com/company/twalaio"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://twala.io"
+      }
+    }
+  },
+  {
+    "id": "dvcode",
+    "name": "DvCode Technologies Inc.",
+    "verified": true,
+	  "image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
+    "description":
+      "DvCode Technologies Inc. is an IT solutions company specializing in software development leveraging on blockchain smart contracts, digital wallets, and cyber-security; game app development; network infrastructure building and web 3.0 development. Our main goal is to help our clients make use of the modern technology in their every lives that will be fun, easy-to-use, cost-effective and convenient.",
+    "tags": ["nft", "defi", "gaming","company"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://facebook.com/dvcode.tech"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://dvcode.tech"
+      }
+    }
+  },
+  {
+    "id": "gladiatordex",
+    "name": "GladiatorDex",
+    "verified": true,
+	  "image": "https://bafybeihbyqe2257hgsqaulgdz5hhfea3pjmqjl3ygntcotdfdvolshbr5q.ipfs.nftstorage.link/",
+    "description":
+      "GladiatorDex is a pvp auto-battler play-to-earn game on top of Polygon Network that has simple game mechanics but has robust game and token economy",
+    "tags": ["nft", "defi", "gaming"],
+    "links": {
+      "facebook": {
+        "id": "fb",
+        "url": "https://facebook.com/gladiatordexnft"
+      },
+      "discord": {
+        "id": "discord",
+        "url": "https://discord.com/invite/7Dd433b63H"
+      },
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/gladiatordexnft"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://gladiatordex.com"
       }
     }
   }
