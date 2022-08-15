@@ -27,6 +27,25 @@
     }
   },
   {
+    "id": "cashcows",
+    "name": "Cash Cows",
+    "verified": true,
+	  "image": "https://bafybeiftqfcxixlfsmbgigq7mwssaesh3dy2bznwu4374k2du7vtnncame.ipfs.nftstorage.link/",
+    "description":
+      "An experiment about sharing wealth with every Cow holder.",
+    "tags": ["nft"],
+    "links": {
+      "twitter": {
+        "id": "twitter",
+        "url": "https://twitter.com/WeAreCashCows"
+      },
+      "website": {
+        "id": "website",
+        "url": "https://www.wearecashcows.com/"
+      }
+    }
+  },
+  {
     "id": "twala",
     "name": "Twala",
     "verified": true,
